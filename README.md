@@ -1,1 +1,3 @@
-# C-test
+# C++ Based Game 
+# In Class Assignment
+# Small game
